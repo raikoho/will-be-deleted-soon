@@ -1,0 +1,3 @@
+- [https://github.com/rf-peixoto/phishing_pot/](https://github.com/rf-peixoto/phishing_pot)
+- [https://phishtank.org/](https://phishtank.org/)
+- [https://bazaar.abuse.ch/](https://bazaar.abuse.ch/)

@@ -1,0 +1,1 @@
+An insecure child becomes an insecure adult. An unhappy child becomes an unhappy adult.
