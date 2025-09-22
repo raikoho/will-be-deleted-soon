@@ -1,0 +1,9 @@
+- **SOC Analyst**
+- **IT Security Analyst**
+- **Incident Responder**
+- **Threat Analyst**
+- **Security Engineer**
+- **Security Consultant**
+- **Security Architect**
+- **Identity and Access Analyst**
+- **Forensic Computer Analyst**
